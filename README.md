@@ -13,3 +13,9 @@ Informações dos livros
 Objetivo
 
 Facilitar a organização e a consulta de livros.# Livraria-
+
+Exemplo de livro
+
+- Título: Dom Casmurro
+- Autor: Machado de Assis
+- Ano de publicação: 1899
