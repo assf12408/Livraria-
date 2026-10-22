@@ -24,3 +24,13 @@ Exemplo de livro
 - Título: Dom Casmurro
 - Autor: Machado de Assis
 - Ano de publicação: 1899
+
+## Padrão de organização dos livros
+
+Todos os livros devem seguir o mesmo padrão:
+
+- **Título:** nome da obra.
+- **Autor:** nome de quem escreveu o livro.
+- **Ano de publicação:** ano em que foi publicado.
+
+Esse padrão facilita a organização e a consulta dos livros.
