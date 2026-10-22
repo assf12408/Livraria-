@@ -24,3 +24,7 @@ Exemplo de livro
 - Título: Dom Casmurro
 - Autor: Machado de Assis
 - Ano de publicação: 1899
+
+- Como consultar os livros
+
+Para encontrar as informações de um livro, consulte seu título, autor e ano de publicação. Esses dados ajudam a identificar cada obra e facilitam a organização da biblioteca.
