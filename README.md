@@ -34,3 +34,16 @@ Todos os livros devem seguir o mesmo padrão:
 - **Ano de publicação:** ano em que foi publicado.
 
 Esse padrão facilita a organização e a consulta dos livros.
+- Como consultar os livros
+
+Para encontrar as informações de um livro, consulte seu título, autor e ano de publicação. Esses dados ajudam a identificar cada obra e facilitam a organização da biblioteca.
+
+Padrão de organização dos livros
+
+Para manter o cadastro organizado, todos os livros devem seguir o mesmo padrão:
+
+- Título: nome da obra.
+- Autor: nome de quem escreveu o livro.
+- Ano de publicação: ano em que o livro foi publicado.
+
+Seguir esse padrão facilita a identificação e a consulta dos livros.
